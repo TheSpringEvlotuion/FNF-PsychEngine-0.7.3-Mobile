@@ -13,18 +13,18 @@
 		},
 		{
 			"offsets": [
-				5,
+				35,
 				-6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "BF NOTE RIGHT0"
 		},
 		{
 			"offsets": [
-				-10,
+				-30,
 				-50
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-29,
+				1,
 				27
 			],
 			"loop": false,
@@ -53,18 +53,18 @@
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "BF NOTE LEFT0"
 		},
 		{
 			"offsets": [
-				7,
+				37,
 				19
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "BF NOTE RIGHT MISS"
 		},
 		{
 			"offsets": [
@@ -79,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-36,
+				-6,
 				27
 			],
 			"loop": false,
@@ -90,14 +90,14 @@
 		},
 		{
 			"offsets": [
-				-44,
+				-39,
 				22
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "BF NOTE LEFT MISS"
 		},
 		{
 			"offsets": [
@@ -167,14 +167,14 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				153,
+				123
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "dodge",
 			"indices": [],
-			"name": "boyfriend dodge"
+			"name": "Majin BF Reveal"
 		},
 		{
 			"offsets": [
@@ -200,22 +200,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/endless_bf",
 	"position": [
-		0,
-		350
+		90,
+		450
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,
 		209
 	],
 	"camera_position": [
-		-100,
-		-60
+		150,
+		-170
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }
